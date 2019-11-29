@@ -1,0 +1,60 @@
+
+/*Global Colours*/
+
+:root {
+  --background: #F7CE5B;
+  --link_text: #7B6B43;
+  --text: #000000;
+}
+
+html {
+  background-color: var(--background);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+body {
+    font-family: 'Overpass', sans-serif;
+    color: var(--text);
+    text-decoration:none;
+    text-align:left;
+    font-weight:normal;
+    margin-left:75px;
+    letter-spacing:3px;
+    font-size:15px;
+}
+
+#header{
+    margin-top:50px;
+    margin-bottom:0px;
+    text-align:left;
+    letter-spacing:10px;
+}
+
+h1 {
+    font-weight:normal;
+}
+
+#contents{
+  text-align: left;
+  margin-left: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size:13px;
+}
+
+a {
+    color: var(--link_text);
+    text-decoration:none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li.a {
+    margin-top: 30px;
+}
