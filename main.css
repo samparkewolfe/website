@@ -9,49 +9,43 @@
 
 html {
   background-color: var(--background);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
 body {
     font-family: 'Overpass', sans-serif;
     color: var(--text);
-    text-decoration:none;
-    text-align:left;
-    margin-left: 10%;
+/*    margin-left: 10%;*/
 }
 
-h1 {
-    font-weight:normal;
+/*h1 {*/
+/*    font-weight:normal;*/
 /*    letter-spacing:1%;*/
-    font-size:600%;
-}
+/*    font-size:600%;*/
+/*}*/
 
-h2 {
-    font-weight:normal;
-    letter-spacing:1vw;
-    font-size:1.5vw;
-    margin-bottom:3vw;
-}
+/*h2 {*/
+/*    font-weight:normal;*/
+/*    letter-spacing:1vw;*/
+/*    font-size:1.5vw;*/
+/*    margin-bottom:3vw;*/
+/*}*/
 
-#contents{
-  text-align: left;
-  font-size:1vw;
-  letter-spacing:0.25vw;
-}
+/*#contents{*/
+/*  text-align: left;*/
+/*  font-size:1vw;*/
+/*  letter-spacing:0.25vw;*/
+/*}*/
 
-a {
-    color: var(--link_text);
-    text-decoration:none;
-}
+/*a {*/
+/*    color: var(--link_text);*/
+/*    text-decoration:none;*/
+/*}*/
 
-ul {
-    list-style-type: circle;
-}
-
-ul li.a {
-    margin-top: 2%;
-    list-style-type: none;
-}
+/*ul {*/
+/*    list-style-type: circle;*/
+/*}*/
+/**/
+/*ul li.a {*/
+/*/*    margin-top: 2%;*/*/
+/*    list-style-type: none;*/
+/*}*/
